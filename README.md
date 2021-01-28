@@ -26,7 +26,7 @@ with the data.
 
 ## Instructions for Running
 
-* It is advisable to first dowload the data from [here].(https://www.kaggle.com/c/champs-scalar-coupling)
+* It is advisable to first dowload the data from [here](https://www.kaggle.com/c/champs-scalar-coupling)
 * `Data_Preprocessing.ipynb` should be first executed which will produce the pre-processed data csv file 'dataset.csv'
 * Remaining two notebooks could be executed in any order. All the relevant results and graphs visualization are present in the
 respective jupyter notebook files.
